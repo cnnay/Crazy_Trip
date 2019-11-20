@@ -1,0 +1,21 @@
+header{
+    background-color: #f00;
+    font-family:  'Indie Flower', cursive;
+    width: 100%;
+    position: absolute;
+    display: flex;
+}
+
+#primeiro_titulo{
+    margin: 2%;
+}
+
+nav {
+    background-color: #0f0; 
+    height: 3vw;
+    width: 5vw;
+}
+
+.primeira_navegacao{
+    display: flex;   
+}

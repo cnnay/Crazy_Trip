@@ -1,0 +1,10 @@
+.banner{
+    width: 100%;
+    height: 50vw;
+    background-image: url(../imagem/banner/img_principal.jfif);
+    background-repeat:no-repeat;
+    background-size:cover;  
+
+
+    
+}
